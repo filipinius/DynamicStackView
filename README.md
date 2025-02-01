@@ -1,6 +1,15 @@
 <h1 align="center"> DynamicStackView 📐</h1>  
 <h3 align="center"> Easily create and customize dynamic stack views in your SwiftUI app. 🚀</h3>
 
+<p align="center">
+    <img src="https://github.com/filipinius/SDKAssets/blob/main/Screenshot%202025-02-02%20at%2012.18.19%E2%80%AFAM.png" alt="Image Leading" width="30%" />
+    <img src="https://github.com/filipinius/SDKAssets/blob/main/Screenshot%202025-02-02%20at%2012.18.53%E2%80%AFAM.png" alt="Image Center" width="30%" />
+    <img src="https://github.com/filipinius/SDKAssets/blob/main/Screenshot%202025-02-02%20at%2012.19.39%E2%80%AFAM.png" alt="Image Trailing" width="30%" />
+</p>
+<p align="center">
+    <img src="https://github.com/filipinius/SDKAssets/blob/main/Screenshot%202025-02-02%20at%2012.19.13%E2%80%AFAM.png" alt="Image Center High Spacing" width="30%" />
+</p>
+
 ## Get Started
 
 1. Add `DynamicStackView` to your project. See the [installation guide](#install).
@@ -118,4 +127,3 @@ dependencies: [
     .package(url: "https://github.com/filipinius/DynamicStackView.git", .upToNextMinor(from: "1.0.0"))
 ]
 ```
-
