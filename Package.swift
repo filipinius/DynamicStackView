@@ -4,17 +4,17 @@
 import PackageDescription
 
 let package = Package(
-    name: "DynamicStackViewSDK",
+    name: "DynamicStackView",
     platforms: [
         .iOS(.v13)
     ],
     products: [
         .library(
-            name: "DynamicStackViewSDK",
-            targets: ["DynamicStackViewSDK"]),
+            name: "DynamicStackView",
+            targets: ["DynamicStackView"]),
     ],
     targets: [
         .target(
-            name: "DynamicStackViewSDK"),
+            name: "DynamicStackView"),
     ]
 )
